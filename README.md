@@ -10,5 +10,5 @@ I'm Bruce! I'm a fullstack JavaScript/TypeScript developer, mostly using React a
 - 💬 Ask me about: React, Nodejs, or Linux. I'm passionate about these topics!
 - 📫 How to reach me: Twitter [@InfiniDream1](https://twitter.com/InfiniDream1) or email me at behopkinsjr@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love Pokémon games.
+- ⚡ Fun fact: I love Zelda games.
 
